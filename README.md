@@ -1,2 +1,11 @@
-"**Projecte de Prova**" 
-"_by GODCis_" 
+**Projecte de Prova** 
+
+_by GODCis_ 
+
+Veiem
+
+* git
+
+* VueJs
+
+* APIs
